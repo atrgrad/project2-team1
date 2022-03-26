@@ -1,5 +1,5 @@
 # Fine Wining
-![fancy](Images/fancy.jpg)
+![fancy](Images/Fancy.jpg)
 ---
 ## Team Members
  1. Austin Rodriguez
